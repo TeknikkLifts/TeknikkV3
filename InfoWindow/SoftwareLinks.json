@@ -1,0 +1,17 @@
+{
+    "SoftWare" : [
+        
+        {
+        "Name":"aa",
+        "AssetID":1,
+        "OnSale":true
+        }, 
+
+        {
+        "Name":"aaa",
+        "AssetID":123424,
+        "OnSale":false
+        }, 
+    
+    ]
+}
