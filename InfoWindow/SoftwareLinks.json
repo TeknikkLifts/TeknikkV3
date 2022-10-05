@@ -1,17 +1,21 @@
-{
-    "SoftWare" : [
-        
-        {
-        "Name":"aa",
-        "AssetID":1,
-        "OnSale":true
-        }, 
-
-        {
-        "Name":"aaa",
-        "AssetID":123424,
-        "OnSale":false
-        }, 
-    
-    ]
-}
+"equipped": {
+            "weapons": {
+                "primaryOne": {
+                    "name": "Vintorez",
+                    "attachments": [],
+                    "skins": []
+                },
+                "primaryTwo": {
+                    "name": "HoneyBadger",
+                    "attachments": [
+                        "ACOG"
+                    ],
+                    "skins": []
+                },
+                "SideArm": {
+                    "name": "ff",
+                    "attachments": [],
+                    "skins": []
+                }
+            }
+        }
